@@ -6,4 +6,4 @@ To put together a library of pre-compiled python code for Machine Learning.
 
 This is done alongside the CI406 "Intro to Artificial Intelligence" module @ University of Brighton.
 
-This repo is shared with the GNU General Public License v3.0, as seen in the `LICENSE` file.
+This repo is shared with the MIT License, as seen in the `LICENSE` file.
